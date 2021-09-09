@@ -7,7 +7,7 @@ Java Sandbox for Learning java.time API
 This is a learning sandbox that I personally use for understanding the Java Time API.
 
 
-## Covered Sections:
+## Covered Classes and Information:
 
 * LocalTime
 * LocalDate
